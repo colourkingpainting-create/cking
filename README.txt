@@ -1,0 +1,1 @@
+Upload all files to Vercel and connect your domain name.
